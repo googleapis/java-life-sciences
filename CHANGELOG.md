@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/googleapis/java-life-sciences/compare/v0.1.1...v0.2.0) (2021-08-04)
+
+
+### Features
+
+* configure initial sp version ([#35](https://www.github.com/googleapis/java-life-sciences/issues/35)) ([18f623f](https://www.github.com/googleapis/java-life-sciences/commit/18f623f5806ef05e601734fa6a8b722eddaacfa6))
+
 ### [0.1.1](https://www.github.com/googleapis/java-life-sciences/compare/v0.1.0...v0.1.1) (2021-06-10)
 
 
