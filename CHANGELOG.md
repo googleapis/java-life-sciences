@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.7](https://github.com/googleapis/java-life-sciences/compare/v0.5.6...v0.5.7) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([1479321](https://github.com/googleapis/java-life-sciences/commit/1479321e19d58a59b28613911c810015d7e9d629))
+
 ## [0.5.6](https://github.com/googleapis/java-life-sciences/compare/v0.5.5...v0.5.6) (2022-10-03)
 
 
