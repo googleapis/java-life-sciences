@@ -61,7 +61,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>grpc-google-cloud-life-sciences-v2beta</artifactId>
-        <version>0.5.8-SNAPSHOT</version><!-- {x-version-update:grpc-google-cloud-life-sciences-v2beta:current} -->
+        <version>0.6.0</version><!-- {x-version-update:grpc-google-cloud-life-sciences-v2beta:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
