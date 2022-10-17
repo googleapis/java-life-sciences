@@ -11,7 +11,7 @@
   <parent>
     <groupId>com.google.cloud</groupId>
     <artifactId>google-cloud-life-sciences-parent</artifactId>
-    <version>0.5.8-SNAPSHOT</version><!-- {x-version-update:google-cloud-life-sciences:current} -->
+    <version>0.6.0</version><!-- {x-version-update:google-cloud-life-sciences:current} -->
   </parent>
   <properties>
     <site.installationModule>google-cloud-life-sciences</site.installationModule>
